@@ -13,5 +13,9 @@ LOGICAL OPERATOTS
 ASSIGNMENT OPERATORS
 <img width="1777" height="392" alt="image" src="https://github.com/user-attachments/assets/aad222e0-0ae2-42ee-97de-1373e3a2a0dc" />
 
+TERNARY OPERATORS
+<img width="1775" height="395" alt="image" src="https://github.com/user-attachments/assets/808385f2-f6c3-409f-ade5-70b794a3aa7e" />
+
+
 
 
