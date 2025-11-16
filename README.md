@@ -19,6 +19,10 @@ TERNARY OPERATORS
 SELECTION STATEMENTS
 <img width="1781" height="507" alt="image" src="https://github.com/user-attachments/assets/a79508a4-5f2b-4966-8c79-b2d1bf729eb1" />
 
+ITERATION STATEMENTS
+<img width="1772" height="442" alt="image" src="https://github.com/user-attachments/assets/2add2a8d-78ee-4d8b-8287-b3b53a7c782c" />
+
+
 
 
 
