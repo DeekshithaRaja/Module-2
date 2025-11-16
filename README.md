@@ -7,3 +7,10 @@ BITWISE OPERATIONS
 RELATIONAL OPERATORS
 <img width="1777" height="565" alt="image" src="https://github.com/user-attachments/assets/b68db65d-1377-46ab-adfd-10d6fc42de07" />
 
+LOGICAL OPERATOTS
+<img width="1771" height="535" alt="image" src="https://github.com/user-attachments/assets/c10c035e-5f0f-400a-aea4-11b14f3777aa" />
+
+ASSIGNMENT OPERATORS
+<img width="1785" height="531" alt="image" src="https://github.com/user-attachments/assets/26c48e12-293c-497c-9bb4-c7605523202b" />
+
+
