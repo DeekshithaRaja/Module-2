@@ -16,6 +16,10 @@ ASSIGNMENT OPERATORS
 TERNARY OPERATORS
 <img width="1775" height="395" alt="image" src="https://github.com/user-attachments/assets/808385f2-f6c3-409f-ade5-70b794a3aa7e" />
 
+SELECTION STATEMENTS
+<img width="1781" height="507" alt="image" src="https://github.com/user-attachments/assets/a79508a4-5f2b-4966-8c79-b2d1bf729eb1" />
+
+
 
 
 
