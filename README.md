@@ -4,6 +4,6 @@ ARITHEMETIC OPERATIONS
 BITWISE OPERATIONS
 <img width="1717" height="632" alt="image" src="https://github.com/user-attachments/assets/0463bc22-e954-4225-b0a1-a3a2f5a1f0c8" />
 
-COMPARE TWO NUMBERS
+RELATIONAL OPERATORS
 <img width="1777" height="565" alt="image" src="https://github.com/user-attachments/assets/b68db65d-1377-46ab-adfd-10d6fc42de07" />
 
