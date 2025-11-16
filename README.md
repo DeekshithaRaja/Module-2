@@ -22,6 +22,10 @@ SELECTION STATEMENTS
 ITERATION STATEMENTS
 <img width="1772" height="442" alt="image" src="https://github.com/user-attachments/assets/2add2a8d-78ee-4d8b-8287-b3b53a7c782c" />
 
+JUMP STATEMENTS
+<img width="1773" height="387" alt="image" src="https://github.com/user-attachments/assets/57c3ed41-ab25-40f7-ab7a-c6489e45a7a9" />
+
+
 
 
 
